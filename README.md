@@ -48,20 +48,20 @@
 
 ###
 
-<!-- ARCADE SNAKE GAME ANIMATION -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/output/github-snake.svg" />
-    <img alt="Snake Game Animation" src="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/output/github-snake.svg" />
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/output/github-snake.svg" />
   </picture>
 </div>
 
 ###
 
-<!-- TYPING ANIMATION - FIXED: Only tagline, no social media names -->
+<!-- TYPING ANIMATION - UPDATED -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=🚀+Let's+connect+if+you+are+Building%2C+Learning%2C;Failing+and+Repeating+the+process+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Let's+connect+if+you+are+Building,+Learning;Failing+and+Repeating+the+process" alt="Typing SVG" />
 </div>
 
 ###
