@@ -48,17 +48,21 @@
 
 ###
 
-<!-- SNAKE ANIMATION - CORRECT URL -->
+<!-- ARCADE SNAKE GAME ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/output/github-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/output/github-snake.svg" />
+    <img alt="Snake Game Animation" src="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/output/github-snake.svg" />
+  </picture>
 </div>
 
 ###
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION - REMOVED SOCIAL MEDIA NAMES -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=LinkedIn;X;Medium;Let's+connect+if+you+are+Building%2C+Learning%2C;Failing+and+Repeating+the+process+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Let's+connect+if+you+are+Building%2C+Learning%2C;Failing+and+Repeating+the+process+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
