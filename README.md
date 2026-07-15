@@ -59,11 +59,9 @@
 
 ###
 
-<!-- TYPING ANIMATION - FIXED WITH EMOJI -->
+<!-- TYPING ANIMATION - FIXED: Only tagline, no social media names -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=🚀+Let's+connect+if+you+are+Building%2C+Learning%2C;Failing+and+Repeating+the+process" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=🚀+Let's+connect+if+you+are+Building%2C+Learning%2C;Failing+and+Repeating+the+process+✨" alt="Typing SVG" />
 </div>
 
 ###
