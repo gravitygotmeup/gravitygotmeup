@@ -58,13 +58,13 @@
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/abhishekpaitode/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/gravitygotmeup" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
   </a>
   <a href="https://medium.com/@gravitygotmeup" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="medium logo"  />
   </a>
 </div>
 
