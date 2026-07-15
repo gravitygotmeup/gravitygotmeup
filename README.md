@@ -48,6 +48,14 @@
 
 ###
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/abhishekpaitode/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -65,14 +73,6 @@
 <br clear="both">
 
 <h3 data-importer="text" align="center">Let's connect if you are Building, Learning, Failing and Repeating the process 🚀</h3>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gravitygotmeup/gravitygotmeup/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
 
 ###
 
